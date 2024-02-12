@@ -27,6 +27,8 @@ public class Main {
 
         users.stream();
 
+    }
+    static void method(){
 
     }
 
