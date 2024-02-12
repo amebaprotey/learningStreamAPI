@@ -28,13 +28,6 @@ public class Main {
         users.stream();
 
 
-//        Integer[] array = new Integer[40];
-//        for (int i = 0; i < 40; i++){
-//            array[i] = random.nextInt(10000);
-//        }
-//
-
-
     }
 
 }
