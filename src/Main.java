@@ -29,7 +29,10 @@ public class Main {
 
     }
     static void method(){
-
+    
+    }
+    static void method(){
+        System.out.println("Метод 2");
     }
 
 }
